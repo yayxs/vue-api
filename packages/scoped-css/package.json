@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "dev": "vite"
+  },
+  "name": "scoped-css",
+  "dependencies": {
+    "vue": "^3.4.14"
+  }
+}
